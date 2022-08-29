@@ -1,3 +1,3 @@
 # Mycalculator
 
-Here is the source code of a simple calculator application.
+Here is the image of a simple calculator application.
